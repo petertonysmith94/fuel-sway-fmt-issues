@@ -1,0 +1,8 @@
+[project]
+authors = ["Pedro Smith"]
+entry = "main.sw"
+license = "Apache-2.0"
+name = "example3"
+
+[dependencies]
+custom_errors = { path = "../custom_errors" }
