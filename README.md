@@ -12,11 +12,14 @@ forc fmt
 
 2. See results in Git diff
 
-## Example sources
+## Sources
 
-Example 1: https://github.com/FuelLabs/fuels-ts/blob/e5251e230f3cbd3677d556e0e660c86281d48315/apps/docs/sway/liquidity-pool/src/main.sw
-Example 2: https://github.com/FuelLabs/fuels-ts/blob/e5251e230f3cbd3677d556e0e660c86281d48315/packages/fuel-gauge/test/fixtures/forc-projects/options/src/main.sw
-Example 3: https://github.com/FuelLabs/fuels-ts/blob/e5251e230f3cbd3677d556e0e660c86281d48315/packages/fuel-gauge/test/fixtures/forc-projects/revert-error/src/main.sw
-Example 4: https://github.com/FuelLabs/fuels-ts/blob/e5251e230f3cbd3677d556e0e660c86281d48315/packages/fuel-gauge/test/fixtures/forc-projects/script-with-more-configurable/src/main.sw
+[Example 1](https://github.com/FuelLabs/fuels-ts/blob/e5251e230f3cbd3677d556e0e660c86281d48315/apps/docs/sway/liquidity-pool/src/main.sw)
+
+[Example 2](https://github.com/FuelLabs/fuels-ts/blob/e5251e230f3cbd3677d556e0e660c86281d48315/packages/fuel-gauge/test/fixtures/forc-projects/options/src/main.sw)
+
+[Example 3](https://github.com/FuelLabs/fuels-ts/blob/e5251e230f3cbd3677d556e0e660c86281d48315/packages/fuel-gauge/test/fixtures/forc-projects/revert-error/src/main.sw)
+
+[Example 4](https://github.com/FuelLabs/fuels-ts/blob/e5251e230f3cbd3677d556e0e660c86281d48315/packages/fuel-gauge/test/fixtures/forc-projects/script-with-more-configurable/src/main.sw)
 
 [Reference commit](https://github.com/FuelLabs/fuels-ts/pull/3617/commits/a83a33e0ab378159f6b2e36858f749329450f0e2#diff-82ed4c3fb1a34871c63a47ee72a68bde66362ef56a7b57c087a49c4f7d233aa0)
